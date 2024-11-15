@@ -1,0 +1,5 @@
+Modelo,ROC AUC,Accuracy
+BERT con ingeniería de características,0.99963215623328,0.9985096870342772
+BERT sin ingeniería de características,0.9928939272338149,0.9970193740685543
+FastText con ingeniería de características,0.8872558855002676,0.9433681073025335
+FastText sin ingeniería de características,0.7175963081861959,0.9284649776453056
