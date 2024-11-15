@@ -1,0 +1,9 @@
+pandas
+numpy
+language_tool_python
+spacy
+nltk
+scikit-learn
+transformers
+torch
+fasttext
